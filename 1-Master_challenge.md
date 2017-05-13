@@ -1,4 +1,4 @@
-# Level [Field]  
+# Level 1 [Web]  
 **Name** : Master Challenge
 **Point** : 50
 **Problem** : I really need to login to this website, but the developer hasn't implemented login yet. Can you help?  
